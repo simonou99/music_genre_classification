@@ -1,2 +1,2 @@
-# music_genre_classification
+# Music Genre Classification
 An unsupervised music genre classification project using DBSCAN clustering.
